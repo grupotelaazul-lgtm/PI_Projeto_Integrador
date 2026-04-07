@@ -38,25 +38,34 @@ Sistema web para gerenciamento de uma escolinha de futebol, desenvolvido como Pr
 ```
 PI - Eng. Soft. FATEC 2025/
 │
-├── Prototipo landing page _ Font-End/
-│   ├── index.html          # Estrutura e telas da aplicação
-│   ├── app.js              # Lógica e gerenciamento de dados
-│   └── style.css           # Estilização e temas
+├── src/                                        # Código-fonte da aplicação
+│   ├── index.html                              # Estrutura e telas
+│   ├── app.js                                  # Lógica e gerenciamento de dados
+│   └── style.css                               # Estilização e temas
 │
-├── EAP/
-│   ├── EAP - Projeto Tela Azul V1.pdf
-│   ├── EAP - Projeto Tela Azul V2.pdf
-│   └── EAP - Projeto Tela Azul V3.pdf
+├── docs/
+│   ├── requisitos/
+│   │   ├── COMPILADO LEVANTAMENTO DE REQUISITOS UCE I.docx
+│   │   └── PRODUCT DISCOVERY - PI.pdf
+│   ├── casos-de-uso/
+│   │   ├── Doc. Caso de Uso Atualizado.docx
+│   │   └── Doc. Portabilidade.docx
+│   ├── relatorios/
+│   │   ├── FATEC RELATÓRIO PARCIAL - UCE v1.docx
+│   │   └── FATEC RELATÓRIO FINAL- UCE COMPLETO.docx
+│   └── guia/
+│       ├── Guia Projeto UCE.docx
+│       └── Guia Projeto UCE.pdf
 │
-├── V1 Login_Cadastro.bpm           # Diagrama BPMN — Fluxo de Login e Cadastro
-├── V1 Cadastro_Assistido.bpm       # Diagrama BPMN — Cadastro Assistido
+├── diagramas/
+│   ├── bpmn/
+│   │   ├── V1 Login_Cadastro.bpm               # Fluxo de Login e Cadastro
+│   │   └── V1 Cadastro_Assistido.bpm           # Cadastro Assistido
+│   └── eap/
+│       ├── EAP - Projeto Tela AzulV1.pdf
+│       └── EAP - Projeto Tela AzulV3.pdf
 │
-├── COMPILADO LEVANTAMENTO DE REQUISITOS UCE I.docx
-├── Doc. Caso de Uso Atualizado.docx
-├── Doc. Portabilidade.docx
-├── PRODUCT DISCOVERY - PI.pdf
-├── FATEC RELATÓRIO PARCIAL - UCE v1.docx
-└── FATEC RELATÓRIO FINAL- UCE COMPLETO.docx
+└── README.md
 ```
 
 ---
@@ -66,7 +75,7 @@ PI - Eng. Soft. FATEC 2025/
 Nenhuma instalação necessária. Por ser uma aplicação client-side pura:
 
 1. Clone ou baixe este repositório
-2. Abra o arquivo `Prototipo landing page _ Font-End/index.html` diretamente no navegador
+2. Abra o arquivo `src/index.html` diretamente no navegador
 
 > Os dados são persistidos no `localStorage` do navegador utilizado.
 
