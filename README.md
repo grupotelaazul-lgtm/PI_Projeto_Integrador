@@ -101,7 +101,10 @@ Nenhuma instalação necessária. Por ser uma aplicação client-side pura:
 
 <!-- Adicione os nomes dos membros do grupo aqui -->
 - Vitor Glegorio
-- *(demais membros)*
+- Vinicius Salviano
+- Brendon Heitor
+- Luis Felipe
+- Khelvin Willian
 
 ---
 
