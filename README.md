@@ -103,7 +103,7 @@ Nenhuma instalação necessária. Por ser uma aplicação client-side pura:
 - Vitor Glegorio
 - Vinicius Salviano
 - Brendon Heitor
-- Luis Felipe
+- Luis Felipe Carvalho de Souza
 - Khelvin Willian
 
 ---
