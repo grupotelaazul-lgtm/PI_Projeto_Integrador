@@ -45,16 +45,16 @@ PI - Eng. Soft. FATEC 2025/
 │
 ├── docs/
 │   ├── requisitos/
-│   │   ├── COMPILADO LEVANTAMENTO DE REQUISITOS UCE I.docx
+│   │   ├── levantamento-requisitos.md
 │   │   └── PRODUCT DISCOVERY - PI.pdf
 │   ├── casos-de-uso/
-│   │   ├── Doc. Caso de Uso Atualizado.docx
-│   │   └── Doc. Portabilidade.docx
+│   │   ├── casos-de-uso.md
+│   │   └── portabilidade.md
 │   ├── relatorios/
-│   │   ├── FATEC RELATÓRIO PARCIAL - UCE v1.docx
-│   │   └── FATEC RELATÓRIO FINAL- UCE COMPLETO.docx
+│   │   ├── relatorio-parcial.md
+│   │   └── relatorio-final.md
 │   └── guia/
-│       ├── Guia Projeto UCE.docx
+│       ├── guia-projeto.md
 │       └── Guia Projeto UCE.pdf
 │
 ├── diagramas/
@@ -85,13 +85,15 @@ Nenhuma instalação necessária. Por ser uma aplicação client-side pura:
 
 | Documento | Descrição |
 |-----------|-----------|
+| [levantamento-requisitos.md](docs/requisitos/levantamento-requisitos.md) | Levantamento de requisitos completo |
+| [casos-de-uso.md](docs/casos-de-uso/casos-de-uso.md) | Especificação dos casos de uso |
+| [portabilidade.md](docs/casos-de-uso/portabilidade.md) | Requisitos de portabilidade do sistema |
+| [relatorio-parcial.md](docs/relatorios/relatorio-parcial.md) | Relatório parcial UCE |
+| [relatorio-final.md](docs/relatorios/relatorio-final.md) | Relatório final do projeto |
+| [guia-projeto.md](docs/guia/guia-projeto.md) | Guia do Projeto UCE |
+| [diagramas/eap/](diagramas/eap/) | Estrutura Analítica do Projeto (EAP) |
+| [diagramas/bpmn/](diagramas/bpmn/) | Modelos de processos BPMN (Bizagi) |
 | `PRODUCT DISCOVERY - PI.pdf` | Descoberta do produto e definição do problema |
-| `COMPILADO LEVANTAMENTO DE REQUISITOS UCE I.docx` | Levantamento de requisitos completo |
-| `Doc. Caso de Uso Atualizado.docx` | Especificação dos casos de uso |
-| `Doc. Portabilidade.docx` | Requisitos de portabilidade do sistema |
-| `EAP/` | Estrutura Analítica do Projeto (versões 1, 2 e 3) |
-| `*.bpm` | Modelos de processos BPMN (Bizagi) |
-| `FATEC RELATÓRIO FINAL- UCE COMPLETO.docx` | Relatório final do projeto |
 
 ---
 
